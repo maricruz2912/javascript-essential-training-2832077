@@ -36,4 +36,6 @@ class Backpack {
   }
 }
 
+//console.log("esta es la impresión de la fecha nativa", Date);
+
 export default Backpack;
